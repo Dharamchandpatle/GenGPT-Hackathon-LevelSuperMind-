@@ -4,5 +4,3 @@
 /server/dist
 
 .env
-package-lock.json
-package.json
